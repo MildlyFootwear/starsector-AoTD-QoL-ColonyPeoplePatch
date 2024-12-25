@@ -1,0 +1,1 @@
+My small patch to fix missing people on a colony while commissioned by a faction that has ownership of player colonies.
