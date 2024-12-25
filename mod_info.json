@@ -4,7 +4,7 @@
 	"author":"Shoey",
 	"utility":"true",
 	"version": { "major":"1", "minor": "1", "patch": "2a" },
-	"description":"Patches player colonies missing people.",
+	"description":"Patches player colonies missing people. Specifically made for Question of Loyalty 1.1.2, do not use with other versions.",
 	"gameVersion": "0.97a-RC11",
 	"jars":["jars/QoLPatch.jar"],
 	"modPlugin":"Shoey.QoLMarketCommPatch.MainPlugin"
