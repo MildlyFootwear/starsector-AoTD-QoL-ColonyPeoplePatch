@@ -1,0 +1,11 @@
+{
+	"id":"aotd_qol_colonyfix",
+	"name":"AoTD - Question of Loyalty Colony Patch",
+	"author":"Shoey",
+	"utility":"true",
+	"version": { "major":"1", "minor": "1", "patch": "2a" },
+	"description":"Patches player colonies missing people.",
+	"gameVersion": "0.97a-RC11",
+	"jars":["jars/QoLPatch.jar"],
+	"modPlugin":"Shoey.QoLMarketCommPatch.MainPlugin"
+}
